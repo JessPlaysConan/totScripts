@@ -1,0 +1,22 @@
+addHandler('transform', (request, context) => {
+
+  var headers = {
+    "content-length": "0",
+    "content-type": "application/json",
+    "user-agent": "game=ConanSandbox, engine=UE4, version=4.15.3-667854+ue415-dw-osl",
+    "x-hookdeck-original-ip": "{conanServerIpAddress}y",
+    "x-hookdeck-original-method": "GET"
+  };
+
+  request.headers = headers;
+
+  let els = [];
+  els = request.parsed_query.params.split('|');
+  var body = {
+    "avatar_url": els[0],
+    "content": els[2],
+    "username": els[1].replace('&pipe;','|')
+  };
+
+
+  request.body = body;

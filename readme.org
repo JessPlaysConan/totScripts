@@ -1,0 +1,2 @@
+** ToT scripting and usability info from the Crown of Sins Conan Exiles server
+Everything loaded here is known to be working with the exception of the scripts saved under slut which need ascii art
