@@ -1,0 +1,91 @@
+Consent|167|18
+Question|1|Is there anything you don't want to roleplay?
+Group|155|What Sex are you ?||
+GroupItem|156|155|Male
+GroupItem|157|155|Female
+GroupItem|158|155|Futa
+GroupItem|159|155|Femboy
+Group|160|Interested In ||
+GroupItem|161|160|Male
+GroupItem|162|160|Female
+GroupItem|163|160|Futa 
+GroupItem|164|160|Femboy
+Group|19|Oral||
+GroupItem|47|19|Giving
+GroupItem|48|19|Receive
+Group|20|Anal||
+GroupItem|50|20|Giving
+GroupItem|51|20|Receive
+Group|21|Vaginal||
+GroupItem|53|21|Giving
+GroupItem|54|21|Receive
+Group|22|Groups||
+GroupItem|56|22|Giving
+GroupItem|57|22|Receive
+Group|25|Dom / Sub|Select only one|
+GroupItem|62|25|Dom
+GroupItem|63|25|Sub
+GroupItem|154|25|Switch
+Group|26|BDSM||
+GroupItem|65|26|Giving
+GroupItem|66|26|Receive
+Group|27|Slavery||
+GroupItem|68|27|Giving
+GroupItem|69|27|Receive
+Group|46|Temporary Slavery||
+GroupItem|71|46|Giving
+GroupItem|72|46|Receive
+Group|28|Humiliation||
+GroupItem|74|28|Giving
+GroupItem|75|28|Receive
+Group|29|Rape||
+GroupItem|77|29|Giving
+GroupItem|78|29|Receive
+Group|30|Drugging||
+GroupItem|80|30|Giving
+GroupItem|81|30|Receive
+Group|31|Permanent Dismemberment||
+GroupItem|83|31|Giving
+GroupItem|84|31|Receive
+Group|32|Permanenet Injuries||
+GroupItem|86|32|Giving
+GroupItem|87|32|Receive
+Group|35|Temporary Injuries||
+GroupItem|89|35|Giving
+GroupItem|90|35|Receive
+Group|33|Permanent Death||
+GroupItem|92|33|Giving
+GroupItem|93|33|Receive
+Group|36|Pregnancy ||
+GroupItem|95|36|Giving
+GroupItem|96|36|Receive
+Group|37|Pissplay||
+GroupItem|98|37|Giving
+GroupItem|100|37|Receive
+Group|38|Friendship||
+GroupItem|101|38|Giving
+GroupItem|102|38|Receive
+Group|40|Romance||
+GroupItem|104|40|Giving
+GroupItem|105|40|Receive
+Group|39|Capture ||
+GroupItem|107|39|Giving
+GroupItem|109|39|Receive
+Group|41|Rivalery||
+GroupItem|111|41|Giving
+GroupItem|112|41|Receive
+Group|42|White Knighting||
+GroupItem|114|42|Giving
+GroupItem|115|42|Receive
+Group|43|Torture||
+GroupItem|116|43|Giving
+GroupItem|118|43|Receive
+Group|45|Conflict||
+GroupItem|123|45|Giving
+GroupItem|124|45|Receive
+Group|44|Marking||
+GroupItem|119|44|Giving
+GroupItem|121|44|Receive
+Group|165|Scats||
+GroupItem|166|165|Giving
+GroupItem|167|165|Receive
